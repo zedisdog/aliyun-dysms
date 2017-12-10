@@ -2,8 +2,8 @@
 require_once dirname(__DIR__) . '/vendor/autoload.php';
 
 $config = [
-    'accessKeyId' => 'access key',
-    'accessKeySecret' => 'access secret',
+    'access_key_id' => 'access key',
+    'access_key_secret' => 'access secret',
     'region' => 'cn-hangzhou',
     'services' => [
         [
