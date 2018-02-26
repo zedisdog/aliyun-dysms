@@ -6,7 +6,7 @@
  * Time: 下午3:14
  */
 
-namespace App\Channels;
+namespace Dezsidog\AliyunSDK\Sms\Notifications\Channels;
 
 
 use Dezsidog\AliyunSDK\Core\DefaultAcsClient;
